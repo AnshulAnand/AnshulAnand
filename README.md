@@ -20,5 +20,14 @@
 
 ![Blue Gradient Header Banner](https://user-images.githubusercontent.com/91583685/213479698-89d4bca4-8deb-4dbb-ae17-c7aa3486fd22.png)
 
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulAnand)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshulAnand)](https://git.io/streak-stats)
+
+</div>
