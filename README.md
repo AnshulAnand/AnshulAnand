@@ -65,6 +65,20 @@
 
 <div align="center">
 
+## My projects
+  
+| Project      | Technology Used | Project | Technology Used |
+| :---        |    :----:   | :--- | :----: |
+| [YelpCamp](https://github.com/AnshulAnand/Yelp-camp) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) | [URL Shortner](https://github.com/AnshulAnand/url-shortner) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
+| [Support Desk](https://github.com/AnshulAnand/support-desk) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) | [Weather App](https://github.com/AnshulAnand/weather-app) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) [![API](https://img.shields.io/badge/API-Weatherstack-orange.svg)](https://shields.io/) |
+| [House Marketplace](https://github.com/AnshulAnand/house-marketplace) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) | [Telegram Quotes Bot](https://github.com/AnshulAnand/telegram-anime-quotes-bot) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) [![Telegraf](https://img.shields.io/badge/Telegraf-blue.svg)](https://shields.io/) [![API](https://img.shields.io/badge/API-Animechan-pink.svg)](https://shields.io/) |
+
+</div>
+  
+<div align="center">
+  
+## A Quote...
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
