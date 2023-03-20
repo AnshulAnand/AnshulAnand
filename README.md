@@ -8,6 +8,10 @@
 
 Hello, my name is Anshul Anand and I am currently learning web development with a passion for creating engaging and user-friendly websites and web applications. I have learned web development technologies and frameworks such as HTML, CSS, JavaScript, and ReactJS through my coursework and personal projects. I am also familiar with back-end technologies like Node.js and database management systems such as MongoDB. I am constantly seeking to improve my skills and stay up-to-date with the latest web development trends and best practices
 
+<a href="https://linkedin.com/in/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296833-4c9da770-4cf5-42bb-b796-0004ed91b08b.jpg" height="48" width="48"></a>
+<a href="https://twitter.com/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296985-adec9e1a-366c-4f62-879f-33ac45e24c6e.jpg" width="48" height="48"></a>
+<a href="https://codepen.io/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226297120-af0f4b5a-5d9e-47ac-a768-ccd149b46266.jpg" height="48" width="48"></a>
+
 ![](https://komarev.com/ghpvc/?username=AnshulAnand)
   
 </div>
@@ -32,12 +36,6 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulAnand&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-## Connect on social
-
-[linkedin.com/anshulanand02](https://linkedin.com/in/anshulanand02)
-[twitter.com/anshulanand02](https://twitter.com/anshulanand02)
-[codepen.io/anshulanand02](https://codepen.io/anshulanand02)
 
 <div align="center">
   
