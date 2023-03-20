@@ -45,8 +45,4 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<a href="https://linkedin.com/in/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296833-4c9da770-4cf5-42bb-b796-0004ed91b08b.jpg" height="48" width="48"></a>
-<a href="https://twitter.com/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296985-adec9e1a-366c-4f62-879f-33ac45e24c6e.jpg" width="48" height="48"></a>
-<a href="https://codepen.io/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226297120-af0f4b5a-5d9e-47ac-a768-ccd149b46266.jpg" height="48" width="48"></a>
-
 </div>
