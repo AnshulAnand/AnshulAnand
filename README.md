@@ -1,16 +1,14 @@
-<!-- ![Hi I Am Anshul Anand](https://user-images.githubusercontent.com/91583685/220061330-ad60948a-8573-44f0-99e3-dc185c75bef6.gif) -->
-
 <div align="center" >
-
-# :wave: Hi, I am Anshul Anand
   
-![](https://komarev.com/ghpvc/?username=AnshulAnand)
+# :wave: Hi, I am Anshul Anand
 
 </div>
 
 <div align="center">
 
 Hello, my name is Anshul Anand and I am currently learning web development with a passion for creating engaging and user-friendly websites and web applications. I have learned web development technologies and frameworks such as HTML, CSS, JavaScript, and ReactJS through my coursework and personal projects. I am also familiar with back-end technologies like Node.js and database management systems such as MongoDB. I am constantly seeking to improve my skills and stay up-to-date with the latest web development trends and best practices
+
+![](https://komarev.com/ghpvc/?username=AnshulAnand)
   
 </div>
 
