@@ -33,6 +33,12 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
   
 </div>
 
+## Connect on social
+
+[linkedin.com/anshulanand02](https://linkedin.com/in/anshulanand02)
+[twitter.com/anshulanand02](https://twitter.com/anshulanand02)
+[codepen.io/anshulanand02](https://codepen.io/anshulanand02)
+
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshulAnand&theme=radical)](https://git.io/streak-stats)
