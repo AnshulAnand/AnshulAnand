@@ -8,10 +8,6 @@
 
 Hello, my name is Anshul Anand and I am currently learning web development with a passion for creating engaging and user-friendly websites and web applications. I have learned web development technologies and frameworks such as HTML, CSS, JavaScript, and ReactJS through my coursework and personal projects. I am also familiar with back-end technologies like Node.js and database management systems such as MongoDB. I am constantly seeking to improve my skills and stay up-to-date with the latest web development trends and best practices
 
-<a href="https://linkedin.com/in/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296833-4c9da770-4cf5-42bb-b796-0004ed91b08b.jpg" height="48" width="48"></a>
-<a href="https://twitter.com/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296985-adec9e1a-366c-4f62-879f-33ac45e24c6e.jpg" width="48" height="48"></a>
-<a href="https://codepen.io/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226297120-af0f4b5a-5d9e-47ac-a768-ccd149b46266.jpg" height="48" width="48"></a>
-
 ![](https://komarev.com/ghpvc/?username=AnshulAnand)
   
 </div>
@@ -48,5 +44,9 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
 ## A Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<a href="https://linkedin.com/in/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296833-4c9da770-4cf5-42bb-b796-0004ed91b08b.jpg" height="48" width="48"></a>
+<a href="https://twitter.com/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226296985-adec9e1a-366c-4f62-879f-33ac45e24c6e.jpg" width="48" height="48"></a>
+<a href="https://codepen.io/anshulanand02"><img src="https://user-images.githubusercontent.com/91583685/226297120-af0f4b5a-5d9e-47ac-a768-ccd149b46266.jpg" height="48" width="48"></a>
 
 </div>
