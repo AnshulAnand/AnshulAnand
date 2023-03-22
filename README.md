@@ -24,8 +24,6 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
   
 </div>
 
-<br/>
-
 <div align="center">
   
 # :chart_with_upwards_trend: Github Stats
@@ -40,8 +38,6 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshulAnand&theme=radical)](https://git.io/streak-stats)
 
 </div>
-  
-<br/>
   
 <div align="center">
   
