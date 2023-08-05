@@ -29,7 +29,12 @@ Hello, my name is Anshul Anand and I am currently learning web development with 
 ### :chart_with_upwards_trend: Github Stats
   
 [![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulAnand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulAnand&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulAnand&langs_count=8&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
